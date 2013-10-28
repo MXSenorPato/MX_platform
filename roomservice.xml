@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="packages/apps/Settings" name="MXSenorPato/android_packages_apps_Settings"/>
+    <project path="vendor/cm" name="MXSenorPato/android_vendor_MX"/>
+      <project path="frameworks/base" name="MXSenorPato/android_frameworks_base"/>
+        <project path="packages/apps/Trebuchet" name="MXSenorPato/android_packages_apps_Trebuchet"/>
+        
+        </manifest>
