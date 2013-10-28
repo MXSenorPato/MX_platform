@@ -425,4 +425,6 @@
     <project path="vendor/cm" name="MXSenorPato/android_vendor_mx"/>
       <project path="frameworks/base" name="MXSenorPato/android_frameworks_base"/>
         <project path="packages/apps/Trebuchet" name="MXSenorPato/android_packages_apps_Trebuchet"/>
+        <project path="packages/apps/PerformanceControl" name="MXSenorPato/android_packages_apps_PerformanceControl" revision="refs/tags/android-4.3"/>
+        <project path="packages/apps/DashClock" name="MXSenorPato/android_packages_apps_DashClock" revision="refs/tags/android-4.3"/>
 </manifest>
